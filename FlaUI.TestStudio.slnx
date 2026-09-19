@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="FlaUI.TestStudio.App/FlaUI.TestStudio.App.csproj" Id="f54d4e7d-4813-4e7c-aefc-c025f046c501" />
+    <Project Path="FlaUI.TestStudio.Automation/FlaUI.TestStudio.Automation.csproj" Id="2e6e2951-b7c9-462e-9ff9-ea315bee1b60" />
+    <Project Path="FlaUI.TestStudio.Core/FlaUI.TestStudio.Core.csproj" Id="b372f332-89b9-4fc1-9f52-69783e1dd188" />
+    <Project Path="FlaUI.TestStudio.Persistence/FlaUI.TestStudio.Persistence.csproj" Id="77250475-ec3b-4a35-aba6-cf6b2a5d45dc" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>

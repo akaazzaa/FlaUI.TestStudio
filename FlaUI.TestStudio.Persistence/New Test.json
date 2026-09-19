@@ -1,0 +1,27 @@
+{
+  "Name": "New Test",
+  "Steps": [
+    {
+      "Type": 1,
+      "Target": {
+        "AutomationId": "",
+        "Name": "",
+        "ControlType": "Window",
+        "ClassName": "Window"
+      },
+      "Value": null,
+      "WaitMilliseconds": 500
+    },
+    {
+      "Type": 1,
+      "Target": {
+        "AutomationId": "",
+        "Name": "",
+        "ControlType": "Window",
+        "ClassName": "Window"
+      },
+      "Value": null,
+      "WaitMilliseconds": 500
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Name": "New Test",
+  "Steps": [
+    {
+      "Type": 1,
+      "Target": {
+        "AutomationId": "",
+        "Name": "Neuer Tab",
+        "ControlType": "Button",
+        "ClassName": "TabStripControlButton"
+      },
+      "Value": null,
+      "WaitMilliseconds": 500
+    },
+    {
+      "Type": 1,
+      "Target": {
+        "AutomationId": "input",
+        "Name": "Suchbegriff oder URL eingeben",
+        "ControlType": "ComboBox",
+        "ClassName": "truncate"
+      },
+      "Value": null,
+      "WaitMilliseconds": 500
+    },
+    {
+      "Type": 1,
+      "Target": {
+        "AutomationId": "input",
+        "Name": "Suchbegriff oder URL eingeben",
+        "ControlType": "ComboBox",
+        "ClassName": "truncate"
+      },
+      "Value": null,
+      "WaitMilliseconds": 500
+    },
+    {
+      "Type": 2,
+      "Target": {
+        "AutomationId": "input",
+        "Name": "Suchbegriff oder URL eingeben",
+        "ControlType": "ComboBox",
+        "ClassName": "truncate"
+      },
+      "Value": "Test",
+      "WaitMilliseconds": 500
+    }
+  ]
+}

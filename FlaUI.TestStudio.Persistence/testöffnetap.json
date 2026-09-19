@@ -1,0 +1,27 @@
+{
+  "Name": "New Test",
+  "Steps": [
+    {
+      "Type": 1,
+      "Target": {
+        "AutomationId": "",
+        "Name": "Schlie\u00DFen",
+        "ControlType": "Button",
+        "ClassName": "TabCloseButton"
+      },
+      "Value": null,
+      "WaitMilliseconds": 500
+    },
+    {
+      "Type": 1,
+      "Target": {
+        "AutomationId": "",
+        "Name": "Neuer Tab",
+        "ControlType": "Button",
+        "ClassName": "TabStripControlButton"
+      },
+      "Value": null,
+      "WaitMilliseconds": 500
+    }
+  ]
+}

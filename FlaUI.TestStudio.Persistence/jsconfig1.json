@@ -1,0 +1,13 @@
+{
+  "name": "Login Test",
+  "steps": [
+    {
+      "type": "Click",
+      "target": {
+        "automationId": "LoginButton",
+        "name": "Anmelden",
+        "controlType": "Button"
+      }
+    }
+  ]
+}
